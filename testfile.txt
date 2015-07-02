@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 john knows knows how to aldlsls dd files into the git hub
+=======
+john knowsassdssdsadsadknows how to add files into the git hub
+>>>>>>> feature
 added this line from feature branch
 
